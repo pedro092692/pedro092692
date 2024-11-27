@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedro092692
+- 🌱 I'm python developer 
 - 👀 I’m interested in php, javascript and python
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web applications projects 
 - 📫 How to reach me: pedro092692@gmail.com
 
